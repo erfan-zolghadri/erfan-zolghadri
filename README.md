@@ -21,7 +21,7 @@ I've been learning to code for a few months. I started with HTML, CSS and JavaSc
 
 * 🌍  I'm based in Tehran
 * 🧠  I'm currently learning Django REST Framework & Docker
-* 🤝  I'm open to collaborating on other programmers
+* 🤝  I'm open to collaborating with other programmers
 * ✉️  How to reach me: [ezolghadri98@gmail.com](mailto:ezolghadri98@gmail.com)
 
 ### Languages and Skills
