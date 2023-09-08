@@ -20,7 +20,7 @@ Backend Developer
 I've been learning to code for a few months. I started with HTML, CSS and JavaScript, but have really found a passion for backend development. So I chose Python as my main programming language. I'm currently into web development with Django.
 
 * 🌍  I'm based in Tehran
-* 🧠  I'm currently learning Django REST Framework & Docker
+* 🧠  I'm currently learning Django & Django REST Framework
 * 🤝  I'm open to collaborating with other programmers
 * ✉️  How to reach me: [ezolghadri98@gmail.com](mailto:ezolghadri98@gmail.com)
 
